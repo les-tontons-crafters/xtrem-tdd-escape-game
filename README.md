@@ -12,13 +12,14 @@ As soon as you see a number (or a letter) on a card, you have the right to look 
 At the top of some cards you may find numbers and/or letters that are `crossed out`, you have to immediately `remove` these cards from the game by putting them `aside`.
 
 ## Material
-- [Playing cards](files/xtrem-tdd-printable-cards.pdf)
-  - Printable as `Tarot` cards (60mm x 113mm)
+- Playing cards, you have several options here:
+  - [Print the cards](files/xtrem-tdd-printable-cards.pdf) (`Tarot` cards: 60mm x 113mm)
+  - [Use the miro board](files/xtrem-tdd-miro-board.rtb) and follow the instructions
 - A computer
 - Access to internet
 
 ## Start the game
-![First card](img/first-card.png)
+![First card](img/cover-xtrem-tdd.png)
 
 ## Solution
 A facilitator guide is available [here](files/xtrem-tdd-cards-solution.pdf)
