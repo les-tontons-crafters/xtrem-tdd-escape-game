@@ -25,8 +25,7 @@ At the top of some cards you may find numbers and/or letters that are `crossed o
 A facilitator guide is available [here](files/xtrem-tdd-cards-solution.pdf)
 
 ## Print the game
-We have printed our card game through [Print Europe](https://printeurope.fr/jeux-de-cartes-personnalises_en.html).
+We have printed our card game through [Print Europe](https://printeurope.fr/jeux-de-cartes-personnalises_en.html). We highly recommend their professionalism and quality 👌
 
-We highly recommend their professionalism and quality 👌
 
 Created by [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/) and [Yoan Thirion](https://www.linkedin.com/in/yoanthirion/)
