@@ -14,7 +14,7 @@ At the top of some cards you may find numbers and/or letters that are `crossed o
 ## Material
 - Playing cards, you have several options here:
   - [Print the cards](files/xtrem-tdd-printable-cards.pdf) (`Tarot` cards: 60mm x 113mm)
-  - [Use the miro board](files/xtrem-tdd-miro-board.rtb) and follow the instructions
+  - [Use the miro board](files/xtrem-tdd-miro-board.rtb) and follow the instructions ([online board](https://miro.com/app/board/uXjVPd9VeUo=/?share_link_id=269456354462)
 - A computer
 - Access to internet
 
@@ -22,7 +22,7 @@ At the top of some cards you may find numbers and/or letters that are `crossed o
 ![First card](img/cover-xtrem-tdd.png)
 
 ## Solution
-A facilitator guide is available [here](files/xtrem-tdd-cards-solution.pdf)
+A facilitator guide is available [here](files/xtrem-tdd-cards-solution.pdf) (miro board backup) or [online](https://miro.com/app/board/uXjVPd9VeUo=/?share_link_id=269456354462).
 
 ## Print the game
 We have printed our card game through [Print Europe](https://printeurope.fr/jeux-de-cartes-personnalises_en.html). We highly recommend their professionalism and quality 👌
