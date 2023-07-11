@@ -14,7 +14,7 @@ At the top of some cards you may find numbers and/or letters that are `crossed o
 ## Material
 - Playing cards, you have several options here:
   - [Print the cards](files/xtrem-tdd-printable-cards.pdf) (`Tarot` cards: 60mm x 113mm)
-  - [Use the miro board](files/xtrem-tdd-miro-board.rtb) and follow the instructions ([online board](https://miro.com/app/board/uXjVPd9VeUo=/?share_link_id=269456354462)
+  - [Use the miro board](files/xtrem-tdd-miro-board.rtb) and follow the instructions ([online board](https://miro.com/app/board/uXjVPd9VeUo=/?share_link_id=269456354462))
 - A computer
 - Access to internet
 
